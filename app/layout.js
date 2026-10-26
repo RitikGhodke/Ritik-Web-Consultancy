@@ -164,7 +164,7 @@ export const metadata = {
     description: site.description,
   },
   robots: { index: true, follow: true },
-     verification: { google: <meta name="google-site-verification" content="G3BSSLyCtazbu0Em0RWXaqDWNHckw5CLjBsd9t-_ZYU" /> },
+      verification: { google: "G3BSSLyCtazbu0Em0RWXaqDWNHckw5CLjBsd9t-_ZYU" },
 };
 
 export const viewport = { themeColor: "#05060a" };

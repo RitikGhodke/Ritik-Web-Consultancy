@@ -246,7 +246,7 @@ export default function Contact() {
                           className={inputCls}
                           name="name"
                           autoComplete="name"
-                          placeholder="Ritik Sharma"
+                          placeholder=""
                           value={v.name}
                           onChange={set("name")}
                         />
@@ -271,7 +271,7 @@ export default function Contact() {
                           name="phone"
                           type="tel"
                           autoComplete="tel"
-                          placeholder="+91 98765 43210"
+                          placeholder=""
                           value={v.phone}
                           onChange={set("phone")}
                         />
